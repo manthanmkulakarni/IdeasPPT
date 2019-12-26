@@ -1,0 +1,12 @@
+Due to lack of information, most of the time farmers end up using wrong fertilisers/pesticides.Hence with this farmer friendly mobile application they can find out the right amount of fertilisers/pesticides can be found out just by using details of type of crop and the soil quality. I order to make this more friendly the application is been made available in almost all Indian language. Using machine learning algorithm crop yield is predicted in the beginning itself in order to prevent losses.
+Provide time to time reminder for applying prescribed pesticides/fertilisers.With the intension to help farmers current market price of prescribed fertiliser/pesticides are shown in the application.
+
+
+Pesticides/fertilisers suggestion : Suggesting based on the soil quality and crop type.
+Yield prediction : Predicting the crop outcome when the suggested fertiliser/pesticides is used.
+Reminder service : Provide time to time reminder to apply pesticides/fertilisers.
+News feed : Provide latest pesticides and fertilisers in the market.
+
+
+
+

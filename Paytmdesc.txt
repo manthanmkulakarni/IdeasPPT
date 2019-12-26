@@ -1,0 +1,9 @@
+Building an APP using Artificial Intelligence to reduce the amount of push notifications and email sent by e-commerce apps.
+So that only interested user get the notification related to the product/services.
+By sending proper notification to the user improper reviews and negative impact on the product can be reduced.
+It sends most popular notification among the crowd to new users and based on the 
+responce for that custom notification.
+Notifications are sent based on the users activity in various e-commerce websites.
+Based on daliy activity of user optimal time for sending notification is decided.
+By comparing various e-commer site fake notification are blocked.
+  

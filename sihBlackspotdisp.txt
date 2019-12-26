@@ -1,0 +1,8 @@
+Road accident deaths is a cause of major concern of highway.
+Black spots are the place where historically accidents are concentrated.
+So GIS can be used to reduce the accidents at black spots.
+By providing the details of black spots before the commencement of journey commuters
+can be cautious about the black stops well in advance and can drive carefully.
+By intimating the commuter about all black spots with in 250mts radius from there location
+ensures safety while riding the vehicles.By using current weather and road condition 
+along with black spot data, safety of commuter can be extended to further extent with the help of machine learning.
